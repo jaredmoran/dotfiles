@@ -1,0 +1,17 @@
+[user]
+	name = Jared Moran
+	email = jared@weareinstrument.com
+[github]
+	user = jaredmoran
+	token = 3a9b10d72568caa24983d1b675335676
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+[pull]
+	rebase = true
+[alias]
+	co = checkout
+	ci = commit
+[help]
+	autocorrect = 1
